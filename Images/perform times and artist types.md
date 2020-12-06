@@ -9,3 +9,12 @@ Group the dots by three different years.
 
 #   Insight
 The information presented in the current classification based on year is not clear and further classification is needed.
+
+#  Image 2
+![图片](https://uploader.shimo.im/f/dmGUwI9KViuKRGzb.png!thumbnail?fileGuid=6qDJrVCXVDd9wRhr)
+
+#   Description
+Show the number of performances of different company types each year.
+
+#   Insight
+Most of the shows are performed by artists from professional companies.
