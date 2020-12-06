@@ -18,3 +18,12 @@ Show the number of performances of different company types each year.
 
 #   Insight
 Most of the shows are performed by artists from professional companies.
+
+#  Image 3
+![图片](https://uploader.shimo.im/f/j6PWkaYkPXrvUkYa.png!thumbnail?fileGuid=6qDJrVCXVDd9wRhr)
+
+#   Description
+When the number of performances is the same, the number of times different company types appear.
+
+#   Insight
+When the number of performances is the same, most of artists come from professional companies, especially when they perform twice.
