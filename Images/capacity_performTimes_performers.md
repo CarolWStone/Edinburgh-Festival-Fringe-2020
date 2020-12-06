@@ -8,3 +8,7 @@
 
 #  Description
 The x axis represents venue capacity, the Y axis represents performance times, the dot size represents performers number, and the dot color represents year.
+The x-axis and y-axis intervals of these three images are different.
+
+#  Shortcoming
+The dots are concentrated in the lower left corner area. Some performances have large venue capacityy, as high as 3,000. Some performances have performed up to 500 times.
