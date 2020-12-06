@@ -8,4 +8,10 @@ The x-axis indicates the frequency of warnings, and the y-axis indicates the war
 
 By clicking on the year box, users cannot quickly see the trend of warning changes, so we decided to display it in the form of animation.
 
-# 
+# Update
+
+The speed of the animation has been re-adjusted to make it more suitable for reading.
+
+# Final version link
+
+[https://hanabi.data-viz.cn/chart.html?](https://hanabi.data-viz.cn/chart.html?)
