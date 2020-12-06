@@ -18,4 +18,7 @@ Based on our analysis, we create an infographic, with our findings and interacti
 - Information about activities from different countries please see 'countryInfo.ipynb'.
 - Analysis about activities that provide accessible services, please see 'disabledInfo.ipynb', and 'artist_type_disabled.ipynb'.
 - Analysis of activities that give different age categories, please see 'ageCategoryInfo.ipynb'.
-- Information about warnings provided by activities, please see 'warnings.ipynb'.
+- Information about warnings provided by activities, please see 'warningstop10.ipynb'.
+- Information about artists from different companies please see 'artist_company.ipynb'.
+- Data processing of disabled services that combines festival_code, please see 'dataProcessing.ipynb'.
+- Data processing of getting JSON data from the API, please see 'saveJsonData.ipynb'.
