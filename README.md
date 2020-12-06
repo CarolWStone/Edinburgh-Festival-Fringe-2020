@@ -7,7 +7,7 @@ We are group 19. Our project is about the Edinburgh Festival, and we focus on th
 Group members:
 - Xiaoqi Shi, s2059352, repository contributor CarolWStone.
 - Xinyu Wang, s2028574, repository contributor ainuanwang1.
-- Wenyu Liu, s1976390
+- Wenyu Liu, s1976390, repository contributor WenyuLiu126.
 - Weiran Li, s2128759, repository contributor ranranzuikeai1
 - Yueli Sun, s2039949
  
