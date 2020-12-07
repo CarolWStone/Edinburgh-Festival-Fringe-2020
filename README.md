@@ -22,3 +22,6 @@ Based on our analysis, we create an infographic, with our findings and interacti
 - Information about artists from different companies please see 'artist_company.ipynb'.
 - Data processing of disabled services that combines festival_code, please see 'dataProcessing.ipynb'.
 - Data processing of getting JSON data from the API, please see 'saveJsonData.ipynb'.
+- Information about venue capacity, perform times and performers number, please see 'capacity_performTimes_performers.md'.
+- Information about perform times and artist types, please see ‘perform times and artist types.md’.
+- The draft of the infographic, please see ‘design of infographic.md’.
